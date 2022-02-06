@@ -1,1 +1,2 @@
-A calculator to perform binary addition , subtraction , multiplication and division.
+# BinaryCalculator
+A calculator to perform binary addition, subtraction, multiplication and division.
